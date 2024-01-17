@@ -1,8 +1,8 @@
 # FLASK BLOGGING WEBSITE BUILT FROM SCRATCH
 
-### YouTube Platlist - [Web Development using Python (Flask)](https://youtube.com/playlist?list=PL2JBbPWIA_TqArc5Iqc6v6Y9ggL598llV&si=J2BinVLMHhDETLFL)
+### YouTube Playlist - [Web Development using Python (Flask)](https://youtube.com/playlist?list=PL2JBbPWIA_TqArc5Iqc6v6Y9ggL598llV&si=J2BinVLMHhDETLFL)
 
-### Video URL - []()
+### Video URL - [#01 Getting Started with Flask | Python's Framework For Web Applications](https://youtu.be/jSiWuY24Ho8)
 
 ## STEPS TO GET STARTED
 
@@ -15,7 +15,7 @@ Windows
 
 Linux
 
-- Install using command - `sudo apt install python3 python3-pip -y`
+- Install using the command - `sudo apt install python3 python3-pip -y`
 
 ### 02. Clone the Repo
 
@@ -25,10 +25,10 @@ Linux
 
 ### 03. Install Flask
 
-- Use command `pip install flask`
+- Use the command `pip install flask`
 
 ### 04. Run the Application
 
-- Use command `python main.py` from the project folder in Terminal.
+- Use the command `python main.py` from the project folder in the Terminal.
 
 
