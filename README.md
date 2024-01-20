@@ -23,12 +23,16 @@ Linux
 - Open Terminal and run command `git clone https://github.com/stayshikshit/flask-blog.git -b flask-introduction`
 - Open the Project with VS Code `code ./flask-blog`
 
+### 03. Install Poetry
+
+- Use the command `pip install poetry` or for Linux/WSL use `sudo apt install python3-poetry`
+
 ### 03. Install Flask
 
-- Use the command `pip install flask`
+- Use the command `poetry add flask`
 
 ### 04. Run the Application
 
-- Use the command `python main.py` from the project folder in the Terminal.
+- Use the command `poetry run python main.py` from the project folder in the Terminal.
 
 
