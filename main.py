@@ -8,6 +8,7 @@ def home():
 
 @app.route('/dashboard')
 def dashboard():
-    return render_template('dashboard.html')
+    names = ['Kamal', 'Mike', 'Tom']
+    return render_template('dashboard.html', names=names, condition=False)
 
 app.run(debug=True)

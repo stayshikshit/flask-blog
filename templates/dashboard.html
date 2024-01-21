@@ -1,1 +1,11 @@
 <h1>This is a Dashboard!</h1>
+<ul>
+    {% for item in names %}
+        <li>{{item}}</li>
+    {% endfor %}
+    {% if condition %}
+        <li>Condition is TRUE</li>
+    {% else %}
+        <li>Condition is FALSE</li>
+    {% endif %}
+</ul>
